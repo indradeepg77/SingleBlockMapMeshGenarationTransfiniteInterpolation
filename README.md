@@ -1,4 +1,4 @@
-# SingleBlockMapMeshGenarationTransfiniteInterpolation
+# SingleBlockMapMeshGenerationTransfiniteInterpolation
 Generation of singular block mesh and export data in .plot3d format by transfinite interpolation
 * Write a program that generates a structured mesh in 3D, given the boundary surface (triangulated) of the domain.
 
